@@ -3,7 +3,7 @@
 This was my final project for CS 428 at the University of Illinois at Chicago during the COVID-19 pandemic. I used Unity 2019.4.1f1 and VRTK 3 to create a virtual mockup of our classroom at human scale, and while there were several different VR libraries available at the time, I used VRTK 3 since it had it great cross-platform libraries and tons of documentation compared to VRTK 4.
 
 ## Build instructions
----
+
 1. First get the source code for this project by clicking the GitHub button below. Once you are in the repository, click the green "Code" button and select either "Download ZIP" or if you have git installed, go ahead and clone the repo. *VRTK 3 is already included in the project, so no need to go out of your way to import that library.*
 
 2. Make sure to have Unity Hub downloaded on your computer and activated with a license. On the left, go to "Installs" and, on the top-right, click "Install Editor". You should see an "Archive" tab, go there and click the link that says, "download archive". In the archive, look for Unity 2019.4.1 and click the blue "Unity Hub" button.
